@@ -1,2 +1,2 @@
 # Kava
-New project
+#Pending to documentation of the project
